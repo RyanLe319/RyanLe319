@@ -1,6 +1,6 @@
 # Ryan Le's Portfolio 👋
 
-Welcome to my GitHub repository! This space showcases my work and projects related to my Computer Science degree and personal interests in **game development**, **mobile app development**, and more.
+Welcome to my GitHub repository! This space showcases my work and projects related to my Computer Science degree and personal interests in **mobile app development**, and more.
 
 ---
 
@@ -48,4 +48,4 @@ The Smithsonian app provides virtual access to the Smithsonian's vast collection
 
 ## **Connect With Me**
 Feel free to reach out or explore my work further:
-- 📫 [Email](mailto:ryan.le@example.com)
+- 📫 [Email](mailto:ryanle1903@gmail.com)
