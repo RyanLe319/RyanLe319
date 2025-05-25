@@ -18,7 +18,6 @@ Explore some of my notable projects below. Each project includes a detailed READ
 ### **Manga Collection App**
 **Overview**:  A comprehensive manga tracking application that helps users organize their reading progress, discover new titles, and manage their collection with advanced filtering and sorting capabilities.
 
-**Link**: https://mturtlebase-production-24d9.up.railway.app/
 
 #### **Tech Stack**:
 - **Languages**: JS, HTML, CSS, SQL
